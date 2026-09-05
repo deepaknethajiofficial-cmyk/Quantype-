@@ -2,7 +2,7 @@
 A rapid arithmetic typing test: pick a time limit, solve math problems as fast as you can, see your speed and accuracy.
 
 # Features
-- Choose a mode: 30 seconds, 60 seconds, or a fixed number of problems
+- Choose a mode: 15 seconds, 30 seconds, 60 seconds, 120 seconds or a fixed number of problems
 - Randomly generated arithmetic problems (addition, subtraction, multiplication)
 - Real-time answer checking as you type
 - Tracks correct answers and time elapsed
