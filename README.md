@@ -11,5 +11,7 @@ A rapid arithmetic typing test: pick a time limit, solve math problems as fast a
 # How it works
 Quantype generates random arithmetic problems in JavaScript and checks the typed input against the correct answer on every keystroke. The timer and scoring logic run independently of problem generation, so the difficulty and pace stay consistent regardless of how fast or slow you're typing.
 
+# PROJECT STATUS - Under Development
+
 
 
